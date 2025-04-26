@@ -1,4 +1,5 @@
-# Image Classifier
+# BILSTMDS# 
+Image Classifier
 This project showcases an example of utilising Flask to serve a simple webpage that interacts with an existing Keras model for image classification. 
 
 This is the codebase that was created as part of this tutorial here:
